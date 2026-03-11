@@ -19,6 +19,8 @@ The design followed a rigorous process flow to ensure compliance with Canadian E
 3. **Modeling:** Developing Single-Line Diagrams (SLD) for normal and emergency operations.
 4. **Power Analysis:** Utilizing ETAP for Load Flow, Short Circuit, and Arc Flash studies.
 5. **Protection Coordination:** Implementation of Siemens 7SR11 relays and Vacuum Circuit Breakers (VCB).
+<img width="948" height="597" alt="image" src="https://github.com/user-attachments/assets/a74df411-5b1f-4961-a68e-1a2703699633" />
+
 
 ## Software & Tools Used
 
