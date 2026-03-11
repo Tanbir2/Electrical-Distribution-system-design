@@ -13,7 +13,7 @@ The project focuses on the detailed electrical infrastructure for a 10-acre site
 
 ## Project Methodology
 
-The design followed a rigorous process flow to ensure compliance with Canadian Electrical Code (CEC) standards:
+The design followed a rigorous process flow to ensure compliance with Canadian Electrical Code (CEC), National Building Code-ALberta 2019, IEEE std-80, NFPA 70E standards:
 1. **Load Analysis:** Comprehensive calculation of lighting (Lumen) and receptacle loads.
 2. **System Design:** Creating detailed power and lighting layouts.
 3. **Modeling:** Developing Single-Line Diagrams (SLD) for normal and emergency operations.
