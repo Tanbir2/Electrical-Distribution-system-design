@@ -31,7 +31,7 @@ The design followed a rigorous process flow to ensure compliance with Canadian E
 
 ## File Structure
 
-* `Project Report Milestone- 5.pdf`: Full technical project documentation.
+* `Project Report.pdf`: Full technical project documentation.
 * `Project Instruction.pdf`: Guidelines and requirements for the design study.
 * `Base Plans-1.pdf`: Architectural base plans used for electrical overlays.
 
