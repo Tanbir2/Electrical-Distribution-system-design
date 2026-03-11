@@ -16,7 +16,8 @@ The project focuses on the detailed electrical infrastructure for a 10-acre site
 The design followed a rigorous process flow to ensure compliance with Canadian Electrical Code (CEC), National Building Code-ALberta 2019, IEEE std-80, NFPA 70E standards:
 1. **Load Analysis:** Comprehensive calculation of lighting (Lumen) and receptacle loads.
 2. **System Design:** Creating detailed power and lighting layouts.
-3. **Modeling:** Developing Single-Line Diagrams (SLD) for normal and emergency operations.
+3. **Modeling:** Developing Single-Line Diagrams (SLD) [Click here to view the PDF documentation](https://tanbir2.github.io/Electrical-Distribution-system-design/)
+ for normal and emergency operations.
 4. **Power Analysis:** Utilizing ETAP for Load Flow, Short Circuit, and Arc Flash studies.
 5. **Protection Coordination:** Implementation of Siemens 7SR11 relays and Vacuum Circuit Breakers (VCB).
 <img width="948" height="597" alt="image" src="https://github.com/user-attachments/assets/a74df411-5b1f-4961-a68e-1a2703699633" />
